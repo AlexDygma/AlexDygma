@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Open Source Projects that leverage rust and/or electron for achieving their goals
 - 📫 To reach me just open an issue here and it will end on my mail :)
 
+
+If you want to support my sleepless nights while i code open-source software, just buy me a coffe! https://www.buymeacoffee.com/NeoDygma
 <!---
 AlexDygma/AlexDygma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
